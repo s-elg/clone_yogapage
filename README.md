@@ -1,2 +1,2 @@
 # yoga page
-clown website that I made exactly from the template
+clown website that I made from the template (template: https://nicepage.com/tr/css-templates/preview/yoga-stuedyosu-dersleri-3583103?device=desktop)
